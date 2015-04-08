@@ -1,0 +1,6 @@
+c:\users\julia\documents\visual studio 2013\Projects\Figures\Figures\bin\Debug\Figures.exe.config
+c:\users\julia\documents\visual studio 2013\Projects\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2013\Projects\Figures\Figures\bin\Debug\Figures.exe
+c:\users\julia\documents\visual studio 2013\Projects\Figures\Figures\bin\Debug\Figures.pdb
+c:\users\julia\documents\visual studio 2013\Projects\Figures\Figures\obj\Debug\Figures.exe
+c:\users\julia\documents\visual studio 2013\Projects\Figures\Figures\obj\Debug\Figures.pdb
